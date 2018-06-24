@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "nodemodules/bootstrap/dust/css/bootstrap.min.css"
               "src/styles.css"
             ],
             "scripts": []
