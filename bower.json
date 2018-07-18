@@ -1,0 +1,20 @@
+{
+  "name": "my-first-app",
+  "description": "",
+  "main": "",
+  "authors": [
+    "ashish <veeramachaneni28@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/project-bannu/projects",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^4.1.2"
+  }
+}
